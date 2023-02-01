@@ -1,6 +1,6 @@
 # Seth Missiaen
 <div id="badges">
-  <a href="https://linkedin.com/sethmissiaen">
+  <a href="https://www.linkedin.com/in/sethmissiaen/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://t.me/localseth">
