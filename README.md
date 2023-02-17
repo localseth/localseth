@@ -40,7 +40,9 @@ I'm currently looking for a junior web developer position with an ambitious team
 ---
 
 ### My Stats :
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=localseth&theme=tokyonight&mode=weekly)](https://git.io/streak-stats)
+<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=localseth&theme=tokyonight&mode=weekly)](https://git.io/streak-stats) -->
+
+[![Seth's GitHub stats](https://github-readme-stats.vercel.app/api?username=localseth&theme=transparent&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=localseth&layout=compact&theme=tokyonight#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=localseth&layout=compact&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
