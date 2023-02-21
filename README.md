@@ -9,6 +9,9 @@
   <a href="https://twitter.com/localseth">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
+  <a href="https://instagram.com/seth.missiaen">
+    <img src="https://img.shields.io/badge/Instagram-lightgrey?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+  </a>
 </div>
 
 <h2>About Me</h2>
